@@ -1,0 +1,45 @@
+{
+    "title": "BEIKLIVEの主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "BEIKLIVE,个人主页",
+    "author": "BEIKLIVE",
+    "logo_img": "./img/icon/me.png",
+    "logo_text_1": "beiklive",
+    "logo_text_2": "top",
+    "github": "beiklive",
+    "qq": "1376896787",
+    "email": "1376896787@qq.com",
+    "bilibili": "23605681",
+    "link_1": [
+        "http://wiki.beiklive.top/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "http://pan.beiklive.top/",
+        "fa-solid fa-cloud",
+        "网盘"
+    ],
+    "link_3": [
+        "http://picbed.beiklive.top/",
+        "fa-solid fa-camera",
+        "相册"
+    ],
+    "link_4": [
+        "http://chat.beiklive.top/",
+        "fa-solid fa-comments",
+        "聊天室"
+    ],
+    "link_5": [
+        "http://nav.beiklive.top/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "https://ohtoai.top/",
+        "fa-solid fa-american-sign-language-interpreting",
+        "不能没有你"
+    ],
+    "Copyright_text": "BEIKLIVE",
+    "beian": "苏ICP备20038092号-2"
+}
